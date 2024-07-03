@@ -1,0 +1,12 @@
+Rezultati za igraca: Bero
+Rezultat: 5000$
+
+Rezultati za igraca: Ante
+Rezultat: 3000$
+
+Rezultati za igraca: steva
+Rezultat: -4000$
+
+Rezultati za igraca: svinja
+Rezultat: -3000$
+
